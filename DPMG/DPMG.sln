@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33110.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DPMG", "DPMG\DPMG.csproj", "{4CC85812-61B3-497F-85FE-AF28BBAB1E52}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4CC85812-61B3-497F-85FE-AF28BBAB1E52}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4CC85812-61B3-497F-85FE-AF28BBAB1E52}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4CC85812-61B3-497F-85FE-AF28BBAB1E52}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4CC85812-61B3-497F-85FE-AF28BBAB1E52}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B1BEC0E4-765A-4F70-B9AF-0DEEA5894B06}
+	EndGlobalSection
+EndGlobal

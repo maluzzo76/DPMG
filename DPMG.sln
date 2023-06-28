@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33110.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DPMG", "DPMG\DPMG.csproj", "{41529EC3-43B9-4BDC-AB9C-578CD488FD64}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tableros", "Tableros\Tableros.csproj", "{E3F313CC-5B2E-4E71-A5B3-5EF96E65DC2D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{41529EC3-43B9-4BDC-AB9C-578CD488FD64}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{41529EC3-43B9-4BDC-AB9C-578CD488FD64}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{41529EC3-43B9-4BDC-AB9C-578CD488FD64}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{41529EC3-43B9-4BDC-AB9C-578CD488FD64}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E3F313CC-5B2E-4E71-A5B3-5EF96E65DC2D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E3F313CC-5B2E-4E71-A5B3-5EF96E65DC2D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E3F313CC-5B2E-4E71-A5B3-5EF96E65DC2D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E3F313CC-5B2E-4E71-A5B3-5EF96E65DC2D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A7399EB7-E66A-45CB-B557-34B737312563}
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 3
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://dev.azure.com/marianoaluzzo0287
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = DPMG\\DPMG.csproj
+		SccProjectName1 = DPMG
+		SccLocalPath1 = DPMG
+		SccProjectUniqueName2 = Tableros\\Tableros.csproj
+		SccProjectName2 = Tableros
+		SccLocalPath2 = Tableros
+	EndGlobalSection
+EndGlobal
