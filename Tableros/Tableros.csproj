@@ -40,6 +40,7 @@
     <None Include="App.config" />
     <None Include="DevOps.pbix" />
     <None Include="QPowerBi.pbit" />
+    <None Include="Ventas.pbix" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
