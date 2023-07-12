@@ -1,0 +1,3 @@
+D:\Fuentes\DPMG\Source\DPMG\DPMG\obj\Debug\DPMG.csproj.AssemblyReference.cache
+D:\Fuentes\DPMG\Source\DPMG\DPMG\obj\Debug\DPMG.csproj.SuggestedBindingRedirects.cache
+D:\Fuentes\DPMG\Source\DPMG\DPMG\obj\Debug\DPMG.csproj.CoreCompileInputs.cache
